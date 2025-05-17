@@ -22,7 +22,7 @@
             </select><br><br>
             <label for="title">Title</label>
             <input type="text" name="title" required>
-            <label for="description">Decsription</label>
+            <label for="description">Description</label>
             <textarea rows="3" name="description" required></textarea>
             <input type="submit" value="Submit">
         </form>
@@ -35,7 +35,7 @@
                     <th>Email</th>
                     <th>Category</th>
                     <th>Title</th>
-                    <th>Decsroption</th>
+                    <th>Description</th>
                 </tr>
             </thead>
             <tbody>
